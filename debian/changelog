@@ -1,0 +1,15 @@
+ros-jazzy-raph-desktop (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Change all names to Raph (#2 <https://github.com/RaphRover/raph_desktop/issues/2>)
+  * Contributors: Jan Hernas
+
+ -- "Fictionlab" <support@fictionlab.pl>  Fri, 20 Nov 2026 00:00:00 -0000
+
+ros-jazzy-raph-desktop (0.0.1-1bookworm) bookworm; urgency=high
+
+  * Initial version
+  * Contributors: Błażej Sowa
+
+ -- "Fictionlab" <support@fictionlab.pl>  Mon, 22 Jul 2024 00:00:00 -0000
+
+
