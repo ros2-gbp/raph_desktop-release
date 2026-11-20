@@ -1,0 +1,12 @@
+Source: ros-jazzy-raph-viz
+Section: misc
+Priority: optional
+Maintainer: "Fictionlab" <support@fictionlab.pl>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-cmake-lint-cmake <!nocheck>, ros-jazzy-ament-cmake-xmllint <!nocheck>, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ros-workspace
+Homepage: https://index.ros.org/p/raph_viz/#jazzy
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-raph-viz
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-joint-state-publisher, ros-jazzy-joint-state-publisher-gui, ros-jazzy-raph-description, ros-jazzy-rviz2, ros-jazzy-ros-workspace
+Description: Visualization launch files and RViz configurations for Raph Rover
